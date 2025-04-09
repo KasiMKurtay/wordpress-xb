@@ -1,3 +1,4 @@
+
 const Card = () => {
   const cardData = [
     {
@@ -7,7 +8,7 @@ const Card = () => {
       content: "Bu birinci kartın içeriği",
       bgColor: "bg-gray-300",
       nboText: ["NBO text 1"],
-      price: 6953,
+      price: 6953,  
       exampleText: "example1",
     },
     {
